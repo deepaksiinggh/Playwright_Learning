@@ -24,7 +24,7 @@ public class Dialog_Alert {
 //		page.onDialog(dialog->{
 ////			dialog.accept();
 //			dialog.dismiss();
-//		});
+//		});  
 //		page.locator("#confirmexample").click();
 
 		
